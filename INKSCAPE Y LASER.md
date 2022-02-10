@@ -58,6 +58,6 @@ objects in the 3d printing machine.
 
 
 
-![](
+![](https://github.com/Hanzla55/Clase-de-Leo/blob/main/Captura%20de%20pantalla%20de%202022-02-10%2013-56-17.png)
 
 
