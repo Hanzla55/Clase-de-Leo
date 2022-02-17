@@ -48,6 +48,6 @@ CNC: Control numérico por computadora: al tomar datos digitalizados,
  
  ### QUE COSAS PUEDE HACER CON UNA CNC?
  
- ![link](https://www.youtube.com/watch?v=am5lNsBlYM8)(https://youtu.be/am5lNsBlYM8)
+ ![LINK](https://www.youtube.com/watch?v=am5lNsBlYM8)
 
  
