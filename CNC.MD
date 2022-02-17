@@ -15,6 +15,9 @@ CNC: Control numérico por computadora: al tomar datos digitalizados,
 
    automatizar y monitorear los movimientos de una máquina.
    
+   
+   Aqui esta link de video sobre cnc.
+   
    ![LINK](https://www.youtube.com/watch?v=am5lNsBlYM8)(https://youtu.be/am5lNsBlYM8)
    
 ### PARA QUE SIRVE?
