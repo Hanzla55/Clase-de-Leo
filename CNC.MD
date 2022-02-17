@@ -51,7 +51,7 @@ CNC: Control numérico por computadora: al tomar datos digitalizados,
  
  AQUI ESTA VIDEO COMO UN EJEMPLO QUE PUEDEMOS HACER CON CNC.
  
- ![VIDEO DE CNC](https://www.youtube.com/watch?v=OUJH_WXENSw)
+ ![VIDEO DE CNC](https://youtu.be/OUJH_WXENSw)
 
 
  
