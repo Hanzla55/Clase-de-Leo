@@ -15,7 +15,7 @@ CNC: Control numérico por computadora: al tomar datos digitalizados,
 
    automatizar y monitorear los movimientos de una máquina.
    
-   
+   ![LINK](https://www.youtube.com/watch?v=am5lNsBlYM8)(LINK)
    
 ### PARA QUE SIRVE?
 
@@ -46,8 +46,6 @@ CNC: Control numérico por computadora: al tomar datos digitalizados,
  
  
  
- ### QUE COSAS PUEDE HACER CON UNA CNC?
- 
- ![LINK](https://www.youtube.com/watch?v=am5lNsBlYM8)(https://youtu.be/am5lNsBlYM8)
+
 
  
